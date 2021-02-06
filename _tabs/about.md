@@ -11,4 +11,4 @@ order: 4
 ---
 
 
-Greetings, I am the one who comes from networks engineering background and interested in cyber security field especially offensive security. Also, I spend a lot of time enjoying learning and doing hacking stuff. Therefore, I created this blog for the ethical purposes only for experience sharing and contributing in knowledge spreading in the cyber security community.
+Greetings, I am the one who comes from networks engineering background and interested in information security field especially offensive security. Also, I spend a lot of time enjoying learning and doing hacking stuff. Therefore, I created this blog for the ethical purposes only for experience sharing and contributing in knowledge spreading in information security community.

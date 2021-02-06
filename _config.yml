@@ -7,9 +7,9 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Mohamed Ezzat                          # the main title
+title: Echo                          # the main title
 
-tagline: Penetration Tester  # it will display as the sub-title
+tagline: Hacking Stuff  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Infosec Blog.
